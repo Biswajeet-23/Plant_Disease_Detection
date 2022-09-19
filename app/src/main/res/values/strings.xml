@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CropDiseaseDetector</string>
+    <string name="takephoto">TakePhoto</string>
+    <string name="selectphoto">SelectPhoto</string>
+    <string name="description_image">Description Image</string>
+    <string name="button_diagnose">Button Diagnose</string>
+    <string name="default_image">Default Image</string>
+</resources>
